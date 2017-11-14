@@ -19,20 +19,9 @@ button {
 	margin: 5px 8px;
 	cursor: pointer;
 	display: inline-block;
+	background-color: #73A7FC;
 }
 
 button:hover {
 	opacity: .5;
-}
-
-.buttonBlue {
-	background-color: #73A7FC;
-}
-
-.buttonGreen {
-	background-color: #72f999;
-}
-
-.buttonOrange {
-	background-color: #f9c372;
 }
